@@ -1,0 +1,10 @@
+I assert copyright over this code, but it has no license.
+
+Since I wrote this code for a particular company in a particular place and
+time, and since its usefulness is contingent on having access to that company's
+network and servers, this code probably will not be useful to you. There is no
+official license to it. The unofficial license is "if you're an employee of
+DesertNet, have at it, otherwise please don't use this."
+
+Seriously, even if you're a Foundation CMS license-holder, this probably won't
+be useful to you except as a learning exercise in elisp.
